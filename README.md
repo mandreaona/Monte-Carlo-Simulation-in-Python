@@ -16,5 +16,5 @@ Note: Unsold inventory is defined as inventory that was available to sell but wa
 A Shortage occurs when there is insufficient goods to sell. This implies that a possible profit has been lost.
 
 
-
+Collaborators: [Elisa Baldo](https://github.com/ElisaBaldo) and Zhoumin Li
 
