@@ -1,6 +1,6 @@
 # Monte Carlo Simulation in Python
 
-##Data Optimization Team Project @ Hult International Business School
+## Data Optimization Team Project @ Hult International Business School
 
 The Milk Dataset is from Peru, with weekly data for multiple years. Using this data, our team was tasked to advise the management as to what they should do. This includes marketing strategies (feature and display in OJ Dataset).  
 
